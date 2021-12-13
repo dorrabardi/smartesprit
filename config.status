@@ -437,7 +437,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/home/oussama/Documents/interfaceAdmin (4e copie)prime'
+ac_pwd='/home/oussama/Documents/smartesprit'
 srcdir='.'
 INSTALL='/usr/bin/install -c'
 MKDIR_P='/bin/mkdir -p'
@@ -686,12 +686,12 @@ S["mkdir_p"]="$(MKDIR_P)"
 S["MKDIR_P"]="/bin/mkdir -p"
 S["INSTALL_STRIP_PROGRAM"]="$(install_sh) -c -s"
 S["STRIP"]=""
-S["install_sh"]="${SHELL} '/home/oussama/Documents/interfaceAdmin (4e copie)prime/install-sh'"
-S["MAKEINFO"]="${SHELL} \"/home/oussama/Documents/interfaceAdmin (4e copie)prime/missing\" makeinfo"
-S["AUTOHEADER"]="${SHELL} \"/home/oussama/Documents/interfaceAdmin (4e copie)prime/missing\" autoheader"
-S["AUTOMAKE"]="${SHELL} \"/home/oussama/Documents/interfaceAdmin (4e copie)prime/missing\" automake-1.15"
-S["AUTOCONF"]="${SHELL} \"/home/oussama/Documents/interfaceAdmin (4e copie)prime/missing\" autoconf"
-S["ACLOCAL"]="${SHELL} \"/home/oussama/Documents/interfaceAdmin (4e copie)prime/missing\" aclocal-1.15"
+S["install_sh"]="${SHELL} /home/oussama/Documents/smartesprit/install-sh"
+S["MAKEINFO"]="${SHELL} /home/oussama/Documents/smartesprit/missing makeinfo"
+S["AUTOHEADER"]="${SHELL} /home/oussama/Documents/smartesprit/missing autoheader"
+S["AUTOMAKE"]="${SHELL} /home/oussama/Documents/smartesprit/missing automake-1.15"
+S["AUTOCONF"]="${SHELL} /home/oussama/Documents/smartesprit/missing autoconf"
+S["ACLOCAL"]="${SHELL} /home/oussama/Documents/smartesprit/missing aclocal-1.15"
 S["VERSION"]="0.1"
 S["PACKAGE"]="interfaceadmin"
 S["CYGPATH_W"]="echo"
