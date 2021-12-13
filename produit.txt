@@ -1,0 +1,7 @@
+54222 tomate 10-->20kg 45 1 1 2015 1 1 2015 Nourriture 
+57787 apple 10-->20kg 5 1 1 2015 1 1 2015 Nourriture 
+5778700 apple 10-->20kg 5 1 1 2015 1 1 2015 Nourriture 
+778 ice 10-->20kg 88 1 1 2015 1 1 2015 Outils_de_cuisine 
+eze ze 30-->40kg eze 1 1 2015 1 1 2015 Nourriture 
+54 oussama 30-->40kg 55 1 1 2015 1 1 2015 Outils_de_cuisine 
+5408 oussama 30-->40kg 55 1 1 2015 1 1 2015 Nourriture 
